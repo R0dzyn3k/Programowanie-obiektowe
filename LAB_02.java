@@ -178,8 +178,6 @@ public class Main {
                 return a % b;
             }
         }
-
         return 0;
     }
-
 }
